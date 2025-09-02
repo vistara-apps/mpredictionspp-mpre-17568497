@@ -6,25 +6,29 @@
   },
   "frame": {
     "version": "1",
-    "name": "Mpredictionspp",
-    "subtitle": "Built with Zara",
-    "description": "Mpredictionspp is a Base Mini App built with Zara.",
-    "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://mpredictionspp-09kq-442cqxsb4-vistara.vercel.app",
-    "splashImageUrl": "https://mpredictionspp-09kq-442cqxsb4-vistara.vercel.app/splash.png",
-    "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://mpredictionspp-09kq-442cqxsb4-vistara.vercel.app/image.png",
-    "tagline": "Mpredictionspp",
+    "name": "Whisper Network Prediction Market",
+    "subtitle": "Anonymous Betting on Base",
+    "description": "Create and bet on prediction markets with varying levels of privacy on the Base blockchain.",
+    "iconUrl": "https://mpredictionspp.vistara.dev/images/icon.png",
+    "homeUrl": "https://mpredictionspp.vistara.dev",
+    "splashImageUrl": "https://mpredictionspp.vistara.dev/images/splash.png",
+    "splashBackgroundColor": "#0f172a",
+    "heroImageUrl": "https://mpredictionspp.vistara.dev/images/hero.png",
+    "tagline": "Predict, Bet, Win - Anonymously",
     "screenshotUrls": [
-      "https://mpredictionspp-09kq-442cqxsb4-vistara.vercel.app/screenshot.png",
-      "https://mpredictionspp-09kq-442cqxsb4-vistara.vercel.app/screenshot.png"
+      "https://mpredictionspp.vistara.dev/images/screenshot1.png",
+      "https://mpredictionspp.vistara.dev/images/screenshot2.png"
     ],
-    "primaryCategory": "social",
+    "primaryCategory": "defi",
     "tags": [
       "base",
-      "miniapp",
-      "onchainkit"
+      "prediction-market",
+      "defi",
+      "whisper-network",
+      "anonymous",
+      "betting"
     ],
-    "webhookUrl": "https://mpredictionspp-09kq-442cqxsb4-vistara.vercel.app/api/webhook"
+    "webhookUrl": "https://mpredictionspp.vistara.dev/api/webhook"
   }
 }
+

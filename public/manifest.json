@@ -1,14 +1,34 @@
 {
-  "name": "Mpredictionspp",
-  "description": "Mpredictionspp is a Base Mini App built with Zara.",
-  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "name": "Whisper Network Prediction Market",
+  "description": "Anonymous prediction markets on Base blockchain. Create and bet on markets with varying levels of privacy.",
+  "image": "https://mpredictionspp.vistara.dev/og",
   "external_url": "https://mpredictionspp.vistara.dev",
   "properties": {
     "app": {
-      "name": "Mpredictionspp",
-      "description": "Mpredictionspp is a Base Mini App built with Zara.",
+      "name": "Whisper Network",
+      "description": "Anonymous prediction markets on Base blockchain. Create and bet on markets with varying levels of privacy.",
       "url": "https://mpredictionspp.vistara.dev",
-      "icon": "https://0co.to/images/zara-2.png"
-    }
+      "icon": "https://mpredictionspp.vistara.dev/images/icon.png"
+    },
+    "category": "DeFi",
+    "tags": [
+      "prediction-market",
+      "base",
+      "defi",
+      "whisper-network",
+      "anonymous",
+      "betting",
+      "farcaster"
+    ],
+    "version": "0.1.0",
+    "chain": "base",
+    "features": [
+      "Create prediction markets",
+      "Bet on binary outcomes",
+      "Anonymous participation",
+      "Farcaster integration",
+      "Gasless transactions"
+    ]
   }
 }
+
