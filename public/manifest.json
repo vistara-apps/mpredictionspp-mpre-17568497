@@ -1,0 +1,14 @@
+{
+  "name": "Mpredictionspp",
+  "description": "Mpredictionspp is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://mpredictionspp.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "Mpredictionspp",
+      "description": "Mpredictionspp is a Base Mini App built with Zara.",
+      "url": "https://mpredictionspp.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
